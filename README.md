@@ -27,6 +27,8 @@ Simply using `build_all_conda.sh` may start working, but the run may fail due to
 
 In addition, please pay attention that you also need to finish the yellow notifications at the end after running it. 
 
+After that run `run_fp2.sh` may start the ROS2 node similar to [FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2.git). We provide an example using Femto Bolt camera. We assume a naive change of the camera topic name may adapt to other cameras.
+
 
 
 
