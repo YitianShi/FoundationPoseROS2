@@ -1,6 +1,10 @@
 # FoundationPoseROS2: Multi-Object Pose Estimation and Tracking of Novel Objects in ROS2 with RealSense2
 
 <p align="center">
+  <img src="assets/angle_hand.gif" alt="3. Angle grinder from SFB C06" width="700">
+</p>
+
+<p align="center">
   <img src="assets/demo.gif" alt="Demo Video" width="330">
   <img src="assets/demo_robot.gif" alt="Robot Demo Video" width="434"><br>
 </p>

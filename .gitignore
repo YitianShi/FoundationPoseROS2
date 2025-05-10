@@ -1,0 +1,12 @@
+*.pt
+*.ply
+__pycache__/*
+FoundationPose
+venv
+demo_out
+demo_data/images*
+hamer
+manotorch
+_DATA
+_misc
+demo_out

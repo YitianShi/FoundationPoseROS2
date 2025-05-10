@@ -21,12 +21,12 @@ RUN pip3 install --no-cache-dir \
     trimesh \
     ultralytics \
     pyquaternion \
-    pillow \
-    rospkg \
-    rclpy
+    pillow
+    #rospkg \
+    #rclpy
 
 # Copy project files into the container
 COPY . /app
 
 # Set entry point
-ENTRYPOINT ["/bin/bash", "-c", "source /opt/ros/humble/setup.bash && python3 main.py"]
+#ENTRYPOINT ["/bin/bash"]

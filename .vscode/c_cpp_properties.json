@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yitian/ros2_ws/install/robotiq_driver/include/**",
+        "/home/yitian/ros2_ws/install/serial/include/**",
+        "/home/yitian/ros2_ws/install/ros2_aruco_interfaces/include/**",
+        "/home/yitian/ros2_ws/install/robotiq_controllers/include/**",
+        "/home/yitian/ros2_ws/install/robotiq_2f_urcap_adapter/include/**",
+        "/home/yitian/ros2_ws/install/orbbec_camera/include/**",
+        "/home/yitian/ros2_ws/install/orbbec_camera_msgs/include/**",
+        "/home/yitian/ros2_ws/install/arm_api2_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yitian/ros2_ws/src/OrbbecSDK_ROS2/orbbec_camera/include/**",
+        "/home/yitian/ros2_ws/src/arm_api2/include/**",
+        "/home/yitian/ros2_ws/src/ros2_robotiq_gripper/robotiq_controllers/include/**",
+        "/home/yitian/ros2_ws/src/ros2_robotiq_gripper/robotiq_driver/include/**",
+        "/home/yitian/ros2_ws/src/serial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
