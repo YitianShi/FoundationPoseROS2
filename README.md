@@ -23,7 +23,7 @@ Additionally, we tested with `torch==2.4.1 torchvision==0.19.1`, which is compat
 Please check README.md from [FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2.git). 
 
 ## Get started
-Simply using `build_all_conda.sh` may start working, but the run may fail due to the C++ issue from `/FoundationPose/bundlesdf/mycuda/` (see [FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2.git)). 
+Simply using `build_all_conda.sh` may start working, but the run may fail due to the C++ issue from `/FoundationPose/bundlesdf/mycuda/` (see [FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2.git)). So simply follow the fix and rerun will solve it.
 
 In addition, please pay attention that you also need to finish the yellow notifications at the end after running it. 
 
